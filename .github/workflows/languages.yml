@@ -1,4 +1,4 @@
-name: Generate languages card
+name: Generate languages card act
 
 on:
   schedule: # execute every 12 hours
